@@ -1,0 +1,102 @@
+{
+  "name": "WOS #1",
+  "symbol": "",
+  "description": "Original NFT collection of 2,222 unique Solana blockchain heroines by famous female 2D artist BTG.",
+  "seller_fee_basis_points": 500,
+  "image": "1.png",
+  "external_url": "https://www.worldofsolana.io/",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Circle Warm"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Medium Sleek"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Face Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Imprint",
+      "value": "None"
+    },
+    {
+      "trait_type": "Top",
+      "value": "One Shoulder Purple"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "None"
+    },
+    {
+      "trait_type": "Other Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Detail",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Overhead",
+      "value": "None"
+    },
+    {
+      "trait_type": "Facial Expression",
+      "value": "Wonder"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AfRXF2eUtmtdXW37KLGr99HAfBqKX6QZoo7ub2XPKR2s",
+        "share": 25
+      },
+      {
+        "address": "F2mykKbC92yk85urmfFEbMVDBZ5nV9M9d29jELyG5DX5",
+        "share": 20
+      },
+      {
+        "address": "HDdMF5pZfTegig4kyP4snL8bHLZCbJw8sx7d38nQhrrA",
+        "share": 55
+      }
+    ]
+  }
+}
